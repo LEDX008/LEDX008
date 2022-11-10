@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @LEDX008
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning full stack developper 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  Hi, I’m @LEDX008
+-  I’m interested in web developement
+-  I’m full stack developper 
+
 
 <!---
 LEDX008/LEDX008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
