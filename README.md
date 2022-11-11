@@ -1,6 +1,6 @@
 -  Hi, I’m @LEDX008
 -  I’m interested in web developement
--  I’m full stack developper 
+
 
 
 <!---
